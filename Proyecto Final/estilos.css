@@ -1,0 +1,49 @@
+
+#fondo {
+    background-color: #e7e8f5;
+}
+.nav.item {
+    background-color: #e7e8f5
+}
+#tabla {
+    margin-left: 25px;
+    background-color: #e7e8f5
+}
+#cuerpo {
+    background-color: #e7e8f5
+    ;
+}
+.tab-content {
+    
+    background-color: #e7e8f5
+}
+.li.nav.item {
+    background-color: #e7e8f5;
+}
+
+#Nombre { 
+    color:slategrey
+}
+ #direccion {   
+
+    color:slategrey;
+   padding-top: 10px;
+   padding-left: 30px;
+   padding-bottom:0px ;
+   
+}
+#telefono {
+    color:slategrey;
+    padding-left: 30px;
+    padding-top: 0px ;
+    padding-bottom: 0px;
+}
+#correo {
+    color:slategrey;
+    padding-left: 30px;
+    padding-top: 0px ;
+    padding-bottom: 0px;
+}
+#foto {
+    margin-top: 25px;
+}
